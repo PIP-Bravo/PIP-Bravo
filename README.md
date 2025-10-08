@@ -104,7 +104,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Feeding Contribution Activity
 ![Snake animation](https://raw.githubusercontent.com/PIP-Bravo/PIP-Bravo/output/github-contribution-grid-snake-dark.svg)
 
 ---
