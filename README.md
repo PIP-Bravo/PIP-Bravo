@@ -13,7 +13,6 @@
 - 💻 **Research Assistant** in AI and RAG Chatbot research projects at UNDIP  
 - 🧬 Worked on **Medical Image Segmentation** using U-Net and Swin Transformer  
 - ☁️ **Certified MLOps Engineer** (DBS Coding Camp 2025, Score: 95.7/100)  
-- 🏥 **Full Stack Developer Intern** at *Decodes Media* — developed the **Awal Bros Hospital** website using Laravel & Filament  
 - 🧩 Passionate about AI research, chatbot systems, and scalable ML pipelines
 
 ---
@@ -27,11 +26,7 @@
 **AI/ML & Data Tools**
 - TensorFlow Extended (TFX), Apache Beam, MLFlow  
 - Pandas, NumPy, Seaborn, Matplotlib  
-- Docker, Railway, Streamlit  
-
-**Databases & Backend**
-- MySQL, PostgreSQL, MongoDB  
-- RESTful API, JWT Authentication  
+- Docker, Railway, Streamlit   
 
 **Soft Skills**
 - Leadership • Communication • Teamwork  
@@ -60,36 +55,36 @@
 - ⚙️ **Building Machine Learning Systems** — Dicoding  
 - ☁️ **Alibaba Cloud Certified Associate (ACA)**  
 - 📊 **Data Classification and Summarization Using IBM Granite** — Hacktiv8  
-- 🤖 **Applied Machine Learning** — Dicoding  
-
----
-
-## 🧑‍🤝‍🧑 Leadership
-- 👨‍💼 **Chairman of UKM Peduli Napza UNDIP (2023–2024)**  
-  Led awareness campaigns and social programs on drug prevention  
-- 🤝 Developed strong organizational and team management skills  
+- 🤖 **Applied Machine Learning** — Dicoding   
 
 ---
 
 ## 🛠️ Languages and Tools
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel"/></code>
+  <code><img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow"/></code>
+  <code><img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras"/></code>
+  <code><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="30" alt="langchain"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache-beam"/></code>
+  <code><img src="https://cdn.simpleicons.org/mlflow/0194E2" height="30" alt="mlflow"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tfx"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib"/></code>
+  <code><img src="https://cdn.simpleicons.org/railway/0B0D0E" height="30" alt="railway"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github"/></code>
-  <code><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn" height="30" alt="ml"/></code>
-  <code><img src="https://skillicons.dev/icons?i=streamlit" height="30" alt="streamlit"/></code>
+  <code><img src="https://cdn.simpleicons.org/alibabacloud/FF6A00" height="30" alt="alibaba-cloud"/></code>
 </div>
 
 ---
 
 ## 📈 GitHub Analytics
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=PIP-Bravo&show_icons=true&theme=onedark">
+  <img width="440px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PIP-Bravo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PIP-Bravo&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=PIP-Bravo&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=PIP-Bravo&theme=onedark" />
